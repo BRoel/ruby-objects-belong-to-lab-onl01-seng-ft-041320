@@ -1,3 +1,3 @@
 class Artist(name)
-  name = "Beyonce"
+  @name = "Beyonce"
 end
