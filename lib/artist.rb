@@ -1,2 +1,3 @@
-class Artist
+class Artist(name)
+  name = "Beyonce"
 end
